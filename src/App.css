@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;400&display=swap');
+::-webkit-scrollbar{
+  display: none;
+}
+body{
+  font-family: 'Mulish', sans-serif !important;
+}
+.home_active{
+  border-bottom: 2px solid blue !important;
+  font-weight:bold;
+  text-transform:capitalize;
+}
+.navbar a{
+  font-size:1.3rem;
+}
+.btn{
+  border: 1px solid #3498db;
+  border-radius: 25px;
+  padding: 0.5rem 2rem;
+  transition: 0.4s linear;
+}
+/* hero works */
+.hero{
+  padding:4rem 0rem !important;
+}
+.hero strong{
+  color:#3498db;
+}
+.hero_img{
+  animation: bounce 2s ease-in-out infinite alternate-reverse both;
+  animation-iteration-count: infinite;
+}
+.hero p{
+  color:rgb(72, 72, 72);
+  font-size: 1.4rem;
+}
+.hero h1{
+  font-size: 40px;
+  color: rgb(0, 0, 0);
+  margin: 0px 0px 10px;
+  text-transform: capitalize;
+}
+/* hero works */
+.navbar-brand{
+  font-size: 2rem !important;
+  color: #3498db !important;
+  transition: 0.4s linear;
+}
+.navbar-brand:hover{
+  color:black !important;
+}
+.btn:hover{
+  background-color: #3498db;
+  color: white;
+}
+h2{
+  font-size: 2rem !important;
+}
+h3{
+  height: 3px;
+  border-radius: 5px;
+  width: 40px;
+  background:#3498db;
+  margin:0rem auto;
+}
+.card img{
+  height: 240px !important;
+}
+h2{
+  font-size: 3rem !important;
+}
+@keyframes bounce{
+  from{
+    transform: translateY(0px);
+  }
+  to{
+    transform: translateY(-20px);
+  }
+}
+
+/* 991px style */
+@media screen and (max-width:991px){
+  .home_active{
+    border: none !important;
+    color: blue !important;
+  }
+}
+/* 991px style */
+/* 768px style */
+@media screen and (max-width:768px){
+  strong{
+    font-size: 3rem !important;
+  }
+}
+/* 768px style */
+/* 425px style */
+@media screen and (max-width:425px){
+  strong{
+    font-size: 1.8rem !important;
+  }
+}
+/* 425px style */
