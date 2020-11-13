@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shocchoSolutions/static/css/main.53602be5.chunk.css",
+    "main.js": "/shocchoSolutions/static/js/main.24e0869e.chunk.js",
+    "main.js.map": "/shocchoSolutions/static/js/main.24e0869e.chunk.js.map",
+    "runtime-main.js": "/shocchoSolutions/static/js/runtime-main.f9f6e045.js",
+    "runtime-main.js.map": "/shocchoSolutions/static/js/runtime-main.f9f6e045.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/shocchoSolutions/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.11035a6c.chunk.js": "/shocchoSolutions/static/js/2.11035a6c.chunk.js",
+    "static/js/2.11035a6c.chunk.js.map": "/shocchoSolutions/static/js/2.11035a6c.chunk.js.map",
+    "index.html": "/shocchoSolutions/index.html",
+    "precache-manifest.a98aed7afe88ca8ee2450806a7b4e30a.js": "/shocchoSolutions/precache-manifest.a98aed7afe88ca8ee2450806a7b4e30a.js",
+    "service-worker.js": "/shocchoSolutions/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/shocchoSolutions/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.53602be5.chunk.css.map": "/shocchoSolutions/static/css/main.53602be5.chunk.css.map",
+    "static/js/2.11035a6c.chunk.js.LICENSE.txt": "/shocchoSolutions/static/js/2.11035a6c.chunk.js.LICENSE.txt",
+    "static/media/hero.svg": "/shocchoSolutions/static/media/hero.e981619f.svg",
+    "static/media/hero1.png": "/shocchoSolutions/static/media/hero1.619f0cc8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9f6e045.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.11035a6c.chunk.js",
+    "static/css/main.53602be5.chunk.css",
+    "static/js/main.24e0869e.chunk.js"
+  ]
+}
